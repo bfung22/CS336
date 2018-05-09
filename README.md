@@ -1,5 +1,5 @@
-# Computer Networks Project
-This project demonstrates a simulated Distributed Denial-of-Service attack. This simulation sends protocol to an (fake) IP address or network, and floods it with packets; ultimately, this project documents the traffic flow and shows the results and (potential) effects of a DDoS attack. This is merely for educational/testing purposes only.
+# CS336 Computer Networks Project: Benny Fung
+This project demonstrates a simulated Distributed Denial-of-Service attack. This simulation sends protocol to an (fake) IP address or network, and floods it with packets; ultimately, this project documents the traffic flow and shows the results and (potential) effects of a DDoS attack. This is not exactly a DDoS; however, this program utilizes threads acting as workers to simulate what a DDoS attack would look like. This is merely for educational/testing purposes only.
 
 ## Goal:
 Although websites are more or less secured nowadays, this simple python script seeks to send protocol packets to a server. If successful, the targetted website/server would be down   
@@ -33,14 +33,10 @@ DDoS-ing takes awhile, and due to increased security nowadays, it gets increasin
 <img src="https://user-images.githubusercontent.com/25395966/39804774-d99c5dd4-5329-11e8-8b40-68ef11bd6955.JPG" data-canonical-src="https://user-images.githubusercontent.com/25395966/39804774-d99c5dd4-5329-11e8-8b40-68ef11bd6955.JPG" width="300" height="300" />    
 google.com server was able to detect the DDoS attempt, and as a result, I was temporarily blocked. Please use your best judgment.
 
-
-
 ## Disclaimer:
 Again, this is merely for educational/testing purposes only. Pleae use responsibly.
 
-
-## References:
+## References:   
 https://gbhackers.com/anonymous-ddos-a-website-using-kali-linux/   
 https://github.com/cyweb   
-https://github.com/jseidl/GoldenEye
-
+https://github.com/jseidl/GoldenEye   
