@@ -2,10 +2,10 @@
 This project demonstrates a simulated Distributed Denial-of-Service attack. This simulation sends protocol to an (fake) IP address or network, and floods it with packets; ultimately, this project documents the traffic flow and shows the results and (potential) effects of a DDoS attack. This is not exactly a DDoS; however, this program utilizes threads acting as workers to simulate what a DDoS attack would look like. This is merely for educational/testing purposes only.
 
 ## Goal:
-Although websites are more or less secured nowadays, this simple python script seeks to send protocol packets to a server. If successful, the targetted website/server would be down   
+Although websites are more or less secured nowadays, this simple python script seeks to send protocol packets to a server. The targetted website would be flooded with HTTPS protocol packets, and if successful, the targetted website/server would crash.
 
-## Tools to use:
-Etherape  
+## Installation/Tools to use:
+Etherape ( see this video for installation: https://www.youtube.com/watch?v=JHeEHqzclnc )   
 Raspberry Pi (with Kali Linux)   
 https://www.hackthissite.org   
 https://www.downforeveryoneorjustme.com/ 
@@ -34,7 +34,7 @@ DDoS-ing takes awhile, and due to increased security nowadays, it gets increasin
 google.com server was able to detect the DDoS attempt, and as a result, I was temporarily blocked. Please use your best judgment.
 
 ## Disclaimer:
-Again, this is merely for educational/testing purposes only. Pleae use responsibly.
+This is just a demo; the source code that's attached can also be found in the references below. Again, this is merely for educational/testing purposes only. Pleae consider the cyber laws when it comes to DDoS-ing, and use this responsibly.
 
 ## References:   
 https://gbhackers.com/anonymous-ddos-a-website-using-kali-linux/   
