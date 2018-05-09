@@ -27,7 +27,12 @@ On the browser, it would look something like this:
 <img src="https://user-images.githubusercontent.com/25395966/39803528-1ea883e8-5326-11e8-9b02-d7c040535ac2.jpg" data-canonical-src="https://user-images.githubusercontent.com/25395966/39803528-1ea883e8-5326-11e8-9b02-d7c040535ac2.jpg" width="200" height="200" />   
 
 Through Etherape, see the traffic flow in the network:   
-<img src="https://user-images.githubusercontent.com/25395966/39803533-1f389b5e-5326-11e8-8503-03eaf6567ef2.jpg" data-canonical-src="https://user-images.githubusercontent.com/25395966/39803533-1f389b5e-5326-11e8-8503-03eaf6567ef2.jpg" width="200" height="200" /> 
+<img src="https://user-images.githubusercontent.com/25395966/39803533-1f389b5e-5326-11e8-8503-03eaf6567ef2.jpg" data-canonical-src="https://user-images.githubusercontent.com/25395966/39803533-1f389b5e-5326-11e8-8503-03eaf6567ef2.jpg" width="200" height="200" />   
+
+DDoS-ing takes awhile, and due to increased security nowadays, it gets increasingly difficult over time. Sometimes, results ma backfire:   
+<img src="https://user-images.githubusercontent.com/25395966/39804774-d99c5dd4-5329-11e8-8b40-68ef11bd6955.JPG" data-canonical-src="https://user-images.githubusercontent.com/25395966/39804774-d99c5dd4-5329-11e8-8b40-68ef11bd6955.JPG" width="200" height="200" />    
+google.com server was able to detect the DDoS attempt, and as a result, I was temporarily blocked. Please abide by the laws and use this with your best judgment.
+
 
 
 ## Disclaimer:
