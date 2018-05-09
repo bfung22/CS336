@@ -9,12 +9,12 @@ Although websites are more or less secured nowadays, this simple python script s
 ## Installation/Tools to use:
 Etherape ( see this video for installation: https://www.youtube.com/watch?v=JHeEHqzclnc )   
 Raspberry Pi (with Kali Linux)   
-https://www.hackthissite.org   
-https://www.downforeveryoneorjustme.com/ 
+Target site to test DDoS (because it's hard/illegal to DDoS other sites): https://www.hackthissite.org   
+You could use this site to see if server is down: https://www.downforeveryoneorjustme.com/    
 
 ## Usage: 
-python ddosg.py [url] -w [number of threads] -s [concurrent sockets]
-python3 ddosh.py -s [IP/Domain] -t [Threads] 
+python ddosg.py [url] -w [number of threads] -s [concurrent sockets]   
+python3 ddosh.py -s [IP/Domain] -t [Threads]   
 
 ## Results:   
 Be sure to have etherape opened before you run the program. DDoS attack takes a while; you have to be patient. For this example, it took about ~10 minutes.   
