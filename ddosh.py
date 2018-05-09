@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-
+'''
+Modified reference: https://github.com/cyweb   
+'''
 from queue import Queue
 from optparse import OptionParser
 import time,sys,socket,threading,logging,urllib.request,random
@@ -70,11 +72,11 @@ def dos2():
 def usage():
 	print ('''It is the end user's responsibility to obey all applicable laws.
 	It is just for server testing script. Your ip is visible. \n
-	usage : python3 hammer.py [-s] [-p] [-t]
+	usage : python3 ddosh.py [-s] [-p] [-t]
 	-h : help
 	-s : server ip
 	-p : port default 80
-	-t : turbo default 135 \033[0m''')
+	-t : default threads 135 \033[0m''')
 	sys.exit()
 
 
