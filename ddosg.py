@@ -3,8 +3,7 @@
 '''
 Author: Benny Fung
 Tweaked version of DDoS simulation
-Usage: ./goldeneye.py
-Inspired by reference: https://github.com/jseidl/GoldenEye
+Inspired by source: https://github.com/jseidl/GoldenEye
 '''
 
 from multiprocessing import Process, Manager, Pool
