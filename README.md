@@ -31,7 +31,7 @@ Through Etherape, see the traffic flow in the network:
 
 DDoS-ing takes awhile, and due to increased security nowadays, it gets increasingly difficult over time. Sometimes, results ma backfire:   
 <img src="https://user-images.githubusercontent.com/25395966/39804774-d99c5dd4-5329-11e8-8b40-68ef11bd6955.JPG" data-canonical-src="https://user-images.githubusercontent.com/25395966/39804774-d99c5dd4-5329-11e8-8b40-68ef11bd6955.JPG" width="300" height="300" />    
-google.com server was able to detect the DDoS attempt, and as a result, I was temporarily blocked. Please abide by the laws and use this with your best judgment.
+google.com server was able to detect the DDoS attempt, and as a result, I was temporarily blocked. Please use your best judgment.
 
 
 
