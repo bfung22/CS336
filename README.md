@@ -1,5 +1,4 @@
 # CS336 Computer Networks Project:
-Demo'd by Benny Fung   
 
 This project demonstrates a simulated Distributed Denial-of-Service attack. This simulation sends protocol to an (fake) IP address or network, and floods it with packets; ultimately, this project documents the traffic flow and shows the results and (potential) effects of a DDoS attack. This is not exactly a DDoS; however, this program utilizes threads acting as workers to simulate what a DDoS attack would look like. This is merely for educational/testing purposes only.
 
