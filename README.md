@@ -10,8 +10,9 @@ Raspberry Pi (with Kali Linux)
 https://www.hackthissite.org   
 https://www.downforeveryoneorjustme.com/ 
 
-## Usage:   
-python simddos.py -s [IP/Domain]
+## Usage: 
+python ddosg.py [url] -w [number of threads] -s [concurrent sockets]
+python3 ddosh.py -s [IP/Domain] -t [Threads] 
 
 ## Results:   
 Be sure to have etherape opened before you run the program. DDoS attack takes a while; you have to be patient. For this example, it took about ~10 minutes.   
