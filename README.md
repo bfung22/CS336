@@ -31,9 +31,9 @@ On the browser, it would look something like this:
 Through Etherape, see the traffic flow in the network:   
 <img src="https://user-images.githubusercontent.com/25395966/39803533-1f389b5e-5326-11e8-8503-03eaf6567ef2.jpg" data-canonical-src="https://user-images.githubusercontent.com/25395966/39803533-1f389b5e-5326-11e8-8503-03eaf6567ef2.jpg" width="300" height="300" />   
 
-DDoS-ing takes awhile, and due to increased security nowadays, it gets increasingly difficult over time. Sometimes, results ma backfire:   
+DDoS-ing takes awhile, and due to increased security nowadays, it gets increasingly difficult over time. Sometimes, results may backfire:   
 <img src="https://user-images.githubusercontent.com/25395966/39804774-d99c5dd4-5329-11e8-8b40-68ef11bd6955.JPG" data-canonical-src="https://user-images.githubusercontent.com/25395966/39804774-d99c5dd4-5329-11e8-8b40-68ef11bd6955.JPG" width="300" height="300" />    
-google.com server was able to detect the DDoS attempt, and as a result, I was temporarily blocked. Please use your best judgment.
+google.com server was able to detect the DDoS attempt, and as a result, I was temporarily blocked. Henceforth, please use your best judgment.
 
 ## Disclaimer:
 This is just a demo; the source code that's attached can also be found in the references below. Again, this is merely for educational/testing purposes only. Pleae consider the cyber laws when it comes to DDoS-ing, and use this responsibly.
