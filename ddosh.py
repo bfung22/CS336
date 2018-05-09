@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 '''
-Author: Benny Fung
 Modified version to fit demonstration.
 Source came from: https://github.com/cyweb   
 '''
