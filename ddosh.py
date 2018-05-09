@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 '''
-Modified reference: https://github.com/cyweb   
+Author: Benny Fung
+Modified version to fit demonstration.
+Source came from: https://github.com/cyweb   
 '''
 from queue import Queue
 from optparse import OptionParser
