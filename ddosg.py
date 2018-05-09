@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 '''
-Author: Benny Fung
 Tweaked version of DDoS simulation
 Inspired by source: https://github.com/jseidl/GoldenEye
 '''
