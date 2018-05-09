@@ -11,7 +11,7 @@ https://downforeveryoneorjustme.com/
 
 
 ## Usage:   
-python simddos.py -d [IP/Domain]
+python simddos.py -s [IP/Domain]
 
 
 ## Disclaimer:
