@@ -1,6 +1,6 @@
 # CS336 Networks Project: DDoS Attack Simulator
 
-This project demonstrates a simulated Distributed Denial-of-Service attack. This simulation sends protocol to an (fake) IP address or network, and floods it with packets; ultimately, this project documents the traffic flow and shows the results and (potential) effects of a DDoS attack. This is not exactly a DDoS; however, this program utilizes threads acting as workers to simulate what a DDoS attack would look like. This is merely for educational/testing purposes only.
+This project demonstrates a simulated Distributed Denial-of-Service attack. In a nutshell, a DDoS attack overwhelms a target server with traffic to the point where it crashes. This simulation sends protocol to an IP address or network, and floods it with packets; ultimately, this project documents the traffic flow and shows the results and (potential) effects of a DDoS attack. This is not exactly a DDoS; however, this program utilizes threads acting as workers to simulate what a DDoS attack would look like. This is merely for educational/testing purposes only.
 
 ## Goal:
 Although websites are more or less secured nowadays, this simple python script seeks to send protocol packets to a server. The targetted website would be flooded with HTTPS protocol packets, and if successful, the targetted website/server would crash.
